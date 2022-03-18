@@ -1,4 +1,4 @@
-👋 Hi, I’m @AnneLinger and I'm currently learning Android development   
+👋 Hi, I’m Anne and I'm currently learning Android development   
 :mortar_board: I study with Openclassrooms and I look forward to find a job of mobile developer
 ### :speech_balloon: Connect with me ! 
 - [![Twitter: anne_linger](https://img.shields.io/twitter/follow/anne_linger?style=social)](https://twitter.com/anne_linger)  
