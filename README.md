@@ -1,5 +1,5 @@
 👋 Hi, I’m Anne and I'm currently learning Android development   
-:mortar_board: I study with Openclassrooms and I look forward to find a job of mobile developer
+:mortar_board: I study with Openclassrooms and I look forward to find freelance jobs as a mobile developer
 ### :speech_balloon: Connect with me ! 
 - [![Twitter: anne_linger](https://img.shields.io/twitter/follow/anne_linger?style=social)](https://twitter.com/anne_linger)  
 - [![Linkedin: anne-linger](https://img.shields.io/badge/-annelinger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anne-linger/)](https://www.linkedin.com/in/anne-linger/)  
