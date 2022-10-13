@@ -8,7 +8,7 @@
 - Java, XML
 - Android Studio
 - SQLite, Room, Gradle, JUnit 4, Espresso, Mockito, Android Lint, UML, Git, Firebase, Hilt, Retrofit
-- Architecture MVVM, clean code
+- Architecture MVVM, tests unitaires, tests d'intégration, clean code
 <!---
 AnneLinger/AnneLinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
