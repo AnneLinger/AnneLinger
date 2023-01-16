@@ -1,5 +1,5 @@
 👋 Hi, I’m Anne and I'm a junior Android developer.
-:mortar_board: I graduated in October 2022 and am actively looking for a job. I also look forward to find freelance jobs as a mobile developer.
+:mortar_board: I graduated in October 2022 the Bac+4 diploma Android Application Developer and I am currently planning to set up as a Freelancer. Contact me !
 ### :speech_balloon: Connect with me ! 
 - [![Twitter: anne_linger](https://img.shields.io/twitter/follow/anne_linger?style=social)](https://twitter.com/anne_linger)  
 - [![Linkedin: anne-linger](https://img.shields.io/badge/-annelinger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anne-linger/)](https://www.linkedin.com/in/anne-linger/)  
